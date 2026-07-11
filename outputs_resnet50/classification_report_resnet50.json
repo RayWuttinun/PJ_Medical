@@ -1,0 +1,447 @@
+{
+    "ก": {
+        "precision": 1.0,
+        "recall": 0.994475138121547,
+        "f1-score": 0.997229916897507,
+        "support": 181.0
+    },
+    "การันต์": {
+        "precision": 1.0,
+        "recall": 0.9864864864864865,
+        "f1-score": 0.9931972789115646,
+        "support": 74.0
+    },
+    "ข": {
+        "precision": 0.9931972789115646,
+        "recall": 1.0,
+        "f1-score": 0.9965870307167235,
+        "support": 146.0
+    },
+    "ฃ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 23.0
+    },
+    "ค": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 139.0
+    },
+    "ง": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 108.0
+    },
+    "จ": {
+        "precision": 1.0,
+        "recall": 0.9922480620155039,
+        "f1-score": 0.9961089494163424,
+        "support": 129.0
+    },
+    "ฉ": {
+        "precision": 0.9310344827586207,
+        "recall": 1.0,
+        "f1-score": 0.9642857142857143,
+        "support": 27.0
+    },
+    "ช": {
+        "precision": 0.9765625,
+        "recall": 1.0,
+        "f1-score": 0.9881422924901185,
+        "support": 125.0
+    },
+    "ซ": {
+        "precision": 1.0,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9655172413793104,
+        "support": 45.0
+    },
+    "ฌ": {
+        "precision": 1.0,
+        "recall": 0.9615384615384616,
+        "f1-score": 0.9803921568627451,
+        "support": 26.0
+    },
+    "ฏ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+    },
+    "ฐ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 37.0
+    },
+    "ฑ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+    },
+    "ฒ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 39.0
+    },
+    "ณ": {
+        "precision": 0.98,
+        "recall": 1.0,
+        "f1-score": 0.98989898989899,
+        "support": 49.0
+    },
+    "ด": {
+        "precision": 0.9944444444444445,
+        "recall": 0.9835164835164835,
+        "f1-score": 0.988950276243094,
+        "support": 182.0
+    },
+    "ต": {
+        "precision": 0.9828571428571429,
+        "recall": 0.9942196531791907,
+        "f1-score": 0.9885057471264368,
+        "support": 173.0
+    },
+    "ถ": {
+        "precision": 0.984375,
+        "recall": 1.0,
+        "f1-score": 0.9921259842519685,
+        "support": 63.0
+    },
+    "ท": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 158.0
+    },
+    "ธ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 38.0
+    },
+    "น": {
+        "precision": 0.993963782696177,
+        "recall": 1.0,
+        "f1-score": 0.9969727547931383,
+        "support": 494.0
+    },
+    "บ": {
+        "precision": 1.0,
+        "recall": 0.9895287958115183,
+        "f1-score": 0.9947368421052631,
+        "support": 191.0
+    },
+    "ป": {
+        "precision": 0.9903846153846154,
+        "recall": 1.0,
+        "f1-score": 0.9951690821256038,
+        "support": 103.0
+    },
+    "ผ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 62.0
+    },
+    "ฝ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+    },
+    "พ": {
+        "precision": 0.9895833333333334,
+        "recall": 1.0,
+        "f1-score": 0.9947643979057592,
+        "support": 95.0
+    },
+    "ฟ": {
+        "precision": 1.0,
+        "recall": 0.975609756097561,
+        "f1-score": 0.9876543209876543,
+        "support": 41.0
+    },
+    "ภ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 47.0
+    },
+    "ม": {
+        "precision": 1.0,
+        "recall": 0.9912790697674418,
+        "f1-score": 0.9956204379562044,
+        "support": 344.0
+    },
+    "ย": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 214.0
+    },
+    "ร": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 474.0
+    },
+    "ฤ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+    },
+    "ล": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 217.0
+    },
+    "ว": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 180.0
+    },
+    "ศ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 21.0
+    },
+    "ษ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+    },
+    "ส": {
+        "precision": 0.9936305732484076,
+        "recall": 1.0,
+        "f1-score": 0.9968051118210862,
+        "support": 156.0
+    },
+    "ห": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 169.0
+    },
+    "ฬ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+    },
+    "อ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 318.0
+    },
+    "อา": {
+        "precision": 0.977961432506887,
+        "recall": 0.9517426273458445,
+        "f1-score": 0.9646739130434783,
+        "support": 373.0
+    },
+    "อิ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+    },
+    "อี": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 34.0
+    },
+    "อึ": {
+        "precision": 0.9615384615384616,
+        "recall": 1.0,
+        "f1-score": 0.9803921568627451,
+        "support": 25.0
+    },
+    "อือ": {
+        "precision": 1.0,
+        "recall": 0.967741935483871,
+        "f1-score": 0.9836065573770492,
+        "support": 31.0
+    },
+    "อุ": {
+        "precision": 0.9782608695652174,
+        "recall": 1.0,
+        "f1-score": 0.989010989010989,
+        "support": 45.0
+    },
+    "อู": {
+        "precision": 1.0,
+        "recall": 0.96,
+        "f1-score": 0.9795918367346939,
+        "support": 25.0
+    },
+    "ฮ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+    },
+    "ฯ": {
+        "precision": 0.9666666666666667,
+        "recall": 1.0,
+        "f1-score": 0.9830508474576272,
+        "support": 29.0
+    },
+    "เอ": {
+        "precision": 0.9782608695652174,
+        "recall": 1.0,
+        "f1-score": 0.989010989010989,
+        "support": 45.0
+    },
+    "แอ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+    },
+    "โอ": {
+        "precision": 0.9894736842105263,
+        "recall": 1.0,
+        "f1-score": 0.9947089947089947,
+        "support": 94.0
+    },
+    "ใอ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 111.0
+    },
+    "ไม้ตรี": {
+        "precision": 0.96,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.9411764705882353,
+        "support": 26.0
+    },
+    "ไม้ยมก": {
+        "precision": 1.0,
+        "recall": 0.96875,
+        "f1-score": 0.9841269841269841,
+        "support": 32.0
+    },
+    "ไม้หันอากาศ": {
+        "precision": 0.9974747474747475,
+        "recall": 0.9850374064837906,
+        "f1-score": 0.9912170639899623,
+        "support": 401.0
+    },
+    "ไม้เอก": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 69.0
+    },
+    "ไม้โท": {
+        "precision": 0.9473684210526315,
+        "recall": 0.9908256880733946,
+        "f1-score": 0.968609865470852,
+        "support": 109.0
+    },
+    "ไม้ไต่คู้": {
+        "precision": 0.84375,
+        "recall": 1.0,
+        "f1-score": 0.9152542372881356,
+        "support": 27.0
+    },
+    "ไอ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 94.0
+    },
+    "ๅ": {
+        "precision": 0.9274193548387096,
+        "recall": 0.9663865546218487,
+        "f1-score": 0.9465020576131687,
+        "support": 238.0
+    },
+    "๐": {
+        "precision": 1.0,
+        "recall": 0.9893617021276596,
+        "f1-score": 0.9946524064171123,
+        "support": 94.0
+    },
+    "๑": {
+        "precision": 0.989247311827957,
+        "recall": 0.968421052631579,
+        "f1-score": 0.9787234042553191,
+        "support": 95.0
+    },
+    "๒": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 107.0
+    },
+    "๓": {
+        "precision": 0.9893617021276596,
+        "recall": 0.9893617021276596,
+        "f1-score": 0.9893617021276596,
+        "support": 94.0
+    },
+    "๔": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 78.0
+    },
+    "๕": {
+        "precision": 0.989010989010989,
+        "recall": 1.0,
+        "f1-score": 0.994475138121547,
+        "support": 90.0
+    },
+    "๖": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 102.0
+    },
+    "๗": {
+        "precision": 0.9807692307692307,
+        "recall": 0.9807692307692307,
+        "f1-score": 0.9807692307692307,
+        "support": 104.0
+    },
+    "๘": {
+        "precision": 1.0,
+        "recall": 0.9387755102040817,
+        "f1-score": 0.968421052631579,
+        "support": 98.0
+    },
+    "๙": {
+        "precision": 0.9891304347826086,
+        "recall": 1.0,
+        "f1-score": 0.994535519125683,
+        "support": 91.0
+    },
+    "accuracy": 0.9913397860417728,
+    "macro avg": {
+        "precision": 0.9899406573551642,
+        "recall": 0.9914234107335196,
+        "f1-score": 0.9904796658737118,
+        "support": 7852.0
+    },
+    "weighted avg": {
+        "precision": 0.9915870747638563,
+        "recall": 0.9913397860417728,
+        "f1-score": 0.9913667547976369,
+        "support": 7852.0
+    }
+}
